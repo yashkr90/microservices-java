@@ -10,7 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://44.204.145.13:3307/hr
+    url: jdbc:mysql://54.164.127.133:3307/hr
     username: root
     password: root 
   boot:
